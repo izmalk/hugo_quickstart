@@ -33,7 +33,7 @@ echo "theme = 'learn'" >> hugo.toml
 cp -R themes/learn/exampleSite/* ./
 ```
 
-5. Build the web site
+6. Build the web site
 
 ```bash
 hugo serve
