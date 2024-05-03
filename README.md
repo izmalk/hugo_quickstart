@@ -2,6 +2,8 @@
 
 ## Steps to reproduce
 
+0. Install Hugo via: [https://gohugo.io/installation](https://gohugo.io/installation/).  If you have not done so, you will need to download Git, Go and Dart Sass (instructions in the links above).
+
 1. Start Hugo project and create folder structure
 
 ```bash
