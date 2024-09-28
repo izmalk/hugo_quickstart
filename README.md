@@ -1,5 +1,7 @@
 # Hugo quickstart repo
 
+This is a simple demo for Hugo static site generator.
+
 ## Steps to reproduce
 
 1. Install Hugo (and if necessary Git, Go and Dart Sass): follow instructions in [https://gohugo.io/installation](https://gohugo.io/installation/).
